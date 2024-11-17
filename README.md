@@ -54,7 +54,7 @@ source ~/.zshrc
 7. For remove tool 
 
 ```shell
-cd ~/T-header && bash t-header.sh --remove && exit
+cd ~/T-Header && bash t-header.sh --remove && exit
 ```
 
 
